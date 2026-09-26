@@ -1,0 +1,15 @@
+{
+  "name": "paperoffice",
+  "description": "PaperOffice AI plugins for Claude Code",
+  "owner": {
+    "name": "PaperOffice",
+    "email": "support@paperoffice.ai"
+  },
+  "plugins": [
+    {
+      "name": "paperoffice-skills",
+      "source": "./",
+      "description": "Skills for the PaperOffice API and MCP server: integration, invoice extraction, OCR, documents, tool discovery."
+    }
+  ]
+}
