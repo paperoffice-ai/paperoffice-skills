@@ -1,0 +1,14 @@
+{
+  "name": "paperoffice-skills",
+  "version": "1.0.0",
+  "description": "Agent Skills for PaperOffice AI: REST integration, invoice extraction (IDP), AI-OCR, document management via MCP, and tool discovery across 300+ tools.",
+  "author": {
+    "name": "PaperOffice",
+    "email": "support@paperoffice.ai",
+    "url": "https://paperoffice.ai"
+  },
+  "homepage": "https://paperoffice.ai/en/developer/mcp/",
+  "repository": "https://github.com/paperoffice-ai/paperoffice-skills",
+  "license": "MIT",
+  "keywords": ["paperoffice", "mcp", "document-ai", "ocr", "idp", "invoice", "dms"]
+}
